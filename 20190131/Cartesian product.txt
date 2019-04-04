@@ -1,0 +1,5 @@
+집합론에서, 곱집합(곱集合, 영어: product set , product) 또는 데카르트 곱(Descartes곱, 영어: Cartesian product 카티지언 프로덕트[*])는 각 집합의 원소를 각 성분으로 하는 튜플들의 집합이다
+
+"Cartesian square" redirects here. For Cartesian squares in category theory, see Cartesian square
+
+
